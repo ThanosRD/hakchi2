@@ -59,22 +59,22 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="$this.Text">
-    <value>Διαχειριστής Φακέλων</value>
+    <value>Διαχείριση Φακέλων</value>
   </data>
   <data name="buttonCancel.Text">
-    <value>Ακύρωση</value>
+    <value>Άκυρο</value>
   </data>
   <data name="buttonFoldersEqually.Text">
     <value>Διαχωρισμός εξίσου</value>
   </data>
   <data name="buttonFoldersEquallyOriginal.Text">
-    <value>Αυθεντικά παιχνίδια -&gt; Διαχωρισμός εξίσου</value>
+    <value>Αυθεντικά παιχνίδια -&gt; Διαχωρισμός στη μέση</value>
   </data>
   <data name="buttonFoldersLetters.Text">
-    <value>Διαχωρισμός ανά πρώτο γράμμα</value>
+    <value>Διαχωρισμός ανά γράμμα</value>
   </data>
   <data name="buttonFoldersLettersOriginal.Text">
-    <value>Αυθεντικά παιχνίδια -&gt; Διαχωρισμός ανά πρώτο γράμμα</value>
+    <value>Αυθεντικά παιχνίδια -&gt; Διαχωρισμός ανά γράμμα</value>
   </data>
   <data name="buttonNewFolder.Text">
     <value>Νέος φάκελος</value>
@@ -110,18 +110,18 @@
     <value>Μετονομασία φακέλου</value>
   </data>
   <data name="comboBoxPosition.Items">
-    <value>Leftmost</value>
+    <value>Τέρμα αριστερά</value>
   </data>
   <data name="comboBoxPosition.Items1">
-    <value>Left to the games</value>
+    <value>Αριστερά των παιχνιδιών</value>
   </data>
   <data name="comboBoxPosition.Items2">
-    <value>Right to the games</value>
+    <value>Δεξιά των παιχνιδιών</value>
   </data>
   <data name="comboBoxPosition.Items3">
-    <value>Rightmost</value>
+    <value>Τέρμα δεξιά</value>
   </data>
   <data name="labelElementCount.Text">
-    <value>Folder statistics</value>
+    <value>Στατιστικά φακέλων</value>
   </data>
 </root>
